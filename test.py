@@ -1,0 +1,2 @@
+print("Just for fun!")
+
